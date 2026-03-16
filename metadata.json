@@ -1,0 +1,7 @@
+{
+  "name": "Keepal Focus",
+  "description": "A high-fidelity, glassmorphic Pomodoro timer with AI task management and mood-based aesthetics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
